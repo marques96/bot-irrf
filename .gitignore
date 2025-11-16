@@ -1,0 +1,14 @@
+# Dependências e Builds
+node_modules
+/dist
+/build
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variáveis de Ambiente e Segredos
+.env
+.DS_Store # (Arquivos de sistema do macOS)
